@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NovelStory.Light" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="appBg">#F4F6FB</item>
+        <item name="appCard">#FFFFFF</item>
+        <item name="appText">#111827</item>
+        <item name="appMuted">#6B7280</item>
+        <item name="appPrimary">#1E3A8A</item>
+        <item name="appOnPrimary">#FFFFFF</item>
+        <item name="appBorder">#E5E7EB</item>
+        <item name="appDisabled">#9CA3AF</item>
+        <item name="appSuccess">#059669</item>
+        <item name="appSuccessBg">#D1FAE5</item>
+        <item name="appDanger">#DC2626</item>
+        <item name="appDangerBg">#FEE2E2</item>
+        <item name="android:windowBackground">#F4F6FB</item>
+        <item name="android:statusBarColor">#F4F6FB</item>
+        <item name="android:navigationBarColor">#F4F6FB</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.NovelStory.Dark" parent="android:Theme.Material.NoActionBar">
+        <item name="appBg">#0F172A</item>
+        <item name="appCard">#1E293B</item>
+        <item name="appText">#F1F5F9</item>
+        <item name="appMuted">#94A3B8</item>
+        <item name="appPrimary">#60A5FA</item>
+        <item name="appOnPrimary">#0F172A</item>
+        <item name="appBorder">#334155</item>
+        <item name="appDisabled">#475569</item>
+        <item name="appSuccess">#34D399</item>
+        <item name="appSuccessBg">#064E3B</item>
+        <item name="appDanger">#F87171</item>
+        <item name="appDangerBg">#7F1D1D</item>
+        <item name="android:windowBackground">#0F172A</item>
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:navigationBarColor">#0F172A</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="OptionButton" parent="android:Widget.Material.CompoundButton.RadioButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:background">@drawable/bg_option</item>
+        <item name="android:button">@null</item>
+        <item name="android:paddingStart">18dp</item>
+        <item name="android:paddingEnd">18dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textColor">?attr/appText</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

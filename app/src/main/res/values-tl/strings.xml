@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Novel Story</string>
+    <string name="app_title">Sakripisyo para sa Kompanya</string>
+    <string name="app_subtitle">Isang nobela sa 75 kabanata</string>
+    <string name="lang_tl">Filipino</string>
+    <string name="lang_en">English</string>
+    <string name="theme_to_dark">Madilim</string>
+    <string name="theme_to_light">Maliwanag</string>
+    <string name="btn_import">Mag-import ng Nobela (.zip)</string>
+    <string name="btn_builtin">Nobelang Built-in</string>
+    <string name="novel_builtin">Kasalukuyang nobela: Built-in</string>
+    <string name="novel_imported">Kasalukuyang nobela: Na-import</string>
+    <string name="import_hint">Dapat may tl/chapter01.md at/o en/chapter01.md ang zip, kasama ang mga file ng kabanata at quiz.json sa loob ng tl/ at en/.</string>
+    <string name="import_ok">Na-import ang nobela.</string>
+    <string name="import_read_error">Hindi mabasa ang zip file.</string>
+    <string name="import_invalid">Hindi tamang zip ng nobela. Kulang ang tl/chapter01.md o en/chapter01.md.</string>
+    <string name="version_fmt">Bersyon %1$s</string>
+    <string name="progress_fmt">%1$d sa %2$d kabanata ang naipasa</string>
+    <string name="status_passed">✓ Naipasa</string>
+    <string name="status_open">Bukas</string>
+    <string name="status_locked">Naka-lock — ipasa muna ang nakaraang pagsusulit</string>
+    <string name="scroll_to_end">Mag-scroll hanggang dulo ng kabanata para magpatuloy</string>
+    <string name="keep_reading_fmt">Magpatuloy sa pagbasa — %1$s pa</string>
+    <string name="ready_quiz">Puwede ka nang kumuha ng pagsusulit. Dapat tama ang bawat sagot.</string>
+    <string name="take_quiz">Kumuha ng Pagsusulit</string>
+    <string name="reread_toast">Basahin muli ang kabanata mula sa simula bago subukan ulit.</string>
+    <string name="quiz_progress_fmt">Tanong %1$d sa %2$d</string>
+    <string name="check_answer">Tingnan ang Sagot</string>
+    <string name="next">Susunod</string>
+    <string name="finish">Tapos na</string>
+    <string name="reread">Basahin Muli ang Kabanata</string>
+    <string name="back">Bumalik</string>
+    <string name="select_answer">Pumili muna ng sagot.</string>
+    <string name="correct">Tama</string>
+    <string name="not_correct">Mali. Kailangan mong basahin muli ang kabanata at sagutin nang tama ang lahat ng tanong.</string>
+    <string name="all_correct">Tama ang lahat ng sagot. Bukas na ang susunod na kabanata.</string>
+    <string name="no_quiz">Walang pagsusulit para sa kabanatang ito. Naka-markahang naipasa na.</string>
+    <string name="novels_label">MGA NOBELA</string>
+    <string name="imported_novel">Na-import na Nobela</string>
+    <string name="novel_incomplete_fmt">Hindi pa kumpleto: %1$d sa %2$d kabanata ang available</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Novel Story</string>
+    <string name="app_title">Sacrifice for the Company</string>
+    <string name="app_subtitle">A novel in 75 chapters</string>
+    <string name="lang_tl">Filipino</string>
+    <string name="lang_en">English</string>
+    <string name="theme_to_dark">Dark</string>
+    <string name="theme_to_light">Light</string>
+    <string name="btn_import">Import Novel (.zip)</string>
+    <string name="btn_builtin">Built-in Novel</string>
+    <string name="novel_builtin">Active novel: Built-in</string>
+    <string name="novel_imported">Active novel: Imported</string>
+    <string name="import_hint">Zip must contain tl/chapter01.md and/or en/chapter01.md, plus chapter files and quiz.json inside tl/ and en/.</string>
+    <string name="import_ok">Novel imported.</string>
+    <string name="import_read_error">Could not read the zip file.</string>
+    <string name="import_invalid">Invalid novel zip. Missing tl/chapter01.md or en/chapter01.md.</string>
+    <string name="version_fmt">Version %1$s</string>
+    <string name="progress_fmt">%1$d of %2$d chapters passed</string>
+    <string name="status_passed">✓ Passed</string>
+    <string name="status_open">Open</string>
+    <string name="status_locked">Locked — pass the previous quiz first</string>
+    <string name="scroll_to_end">Scroll to the end of the chapter to continue</string>
+    <string name="keep_reading_fmt">Keep reading — %1$s left</string>
+    <string name="ready_quiz">You can now take the quiz. Every answer must be correct.</string>
+    <string name="take_quiz">Take the Quiz</string>
+    <string name="reread_toast">Reread the chapter from the beginning before trying again.</string>
+    <string name="quiz_progress_fmt">Question %1$d of %2$d</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="next">Next</string>
+    <string name="finish">Done</string>
+    <string name="reread">Reread the Chapter</string>
+    <string name="back">Back</string>
+    <string name="select_answer">Choose an answer first.</string>
+    <string name="correct">Correct</string>
+    <string name="not_correct">Not correct. You must reread the chapter and answer every question correctly.</string>
+    <string name="all_correct">All answers correct. The next chapter is now unlocked.</string>
+    <string name="no_quiz">No quiz for this chapter. The chapter is marked as passed.</string>
+    <string name="novels_label">NOVELS</string>
+    <string name="imported_novel">Imported Novel</string>
+    <string name="novel_incomplete_fmt">Incomplete: %1$d of %2$d chapters available</string>
+</resources>

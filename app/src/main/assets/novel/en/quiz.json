@@ -1,0 +1,37 @@
+[
+{"chapter":1,"questions":[
+{"q":"Where is the garage where Enzo started?","options":["Dagupan","Calasiao","Urdaneta","Malasiqui"],"answer":1},
+{"q":"What does Enzo call his notebooks full of sketches and calculations?","options":["Business plans","Dream sketches","Expense lists","Machine manuals"],"answer":1},
+{"q":"Which friend of Enzo is skilled at fixing machines and used to work in Urdaneta?","options":["Joel Mercado","Ben Villanueva","Marco","Richard Santiago"],"answer":0},
+{"q":"According to Grace, how much had been spent on the garage before electricity was counted?","options":["Over P35,000","Over P80,000","Over P5,000","Over P100,000"],"answer":0},
+{"q":"Where does the name Factorual come from?","options":["Factor and actual","Factory and real","Fact and ideal","Future and actual"],"answer":0}
+]},
+{"chapter":2,"questions":[
+{"q":"What problem appeared in the battery pack on the third day of the test?","options":["Overheating","Power loss","A cracked case","A burnt tire"],"answer":0},
+{"q":"How many hours was the charging limit set to after the repair?","options":["Seven hours","Five hours","Ten hours","Three hours"],"answer":1},
+{"q":"What did Joel do with the old rubber around the motor?","options":["Removed it and replaced it with a vented housing","Covered it with ice","Painted it","Made it into a tire"],"answer":0},
+{"q":"How many days was Mang Ben's test agreement?","options":["Three days","Five days","Seven days","Ten days"],"answer":2},
+{"q":"What did Mang Ben order after the test?","options":["Two units","Only one unit","Ten units","Only one battery"],"answer":0}
+]},
+{"chapter":3,"questions":[
+{"q":"How much did Enzo borrow from Aunt Lorna?","options":["P50,000","P80,000","P12,000","P16,000"],"answer":1},
+{"q":"Which part of Joel's body was injured while welding?","options":["His hand","His foot","His eye","His head"],"answer":0},
+{"q":"How much was double-paid to Lim Battery Supply?","options":["P12,000","P16,000","P38,000","P80,000"],"answer":0},
+{"q":"What did Enzo write on the whiteboard at the end of the chapter?","options":["TWO UNITS. TWO WEEKS.","KEEP FIGHTING.","MUST EARN.","ONE THOUSAND DREAMS."],"answer":0},
+{"q":"What was Grace's first rule for expenses?","options":["Nothing is bought unless it is on the list","All payments are in cash","No receipts","Enzo alone pays for everything"],"answer":0}
+]},
+{"chapter":4,"questions":[
+{"q":"What problem appeared in Mang Ben's second unit?","options":["A flat tire","Battery failure","A missing key","Broken brakes"],"answer":1},
+{"q":"Who got angry because the workshop was used for the project?","options":["Richard Santiago","Helen Santiago","Grace Dela Cruz","Mang Ben"],"answer":0},
+{"q":"How much of the battery warranty remained for Factorual to cover?","options":["P16,000","P38,000","P117,000","P93,000"],"answer":0},
+{"q":"Who called from the Urdaneta Transport Cooperative?","options":["Celia Ramos","Lorna Santiago","Patricia Salazar","Marco"],"answer":0},
+{"q":"How many units was the cooperative looking at for its members?","options":["Ten","Fifteen","Twenty","Fifty"],"answer":2}
+]},
+{"chapter":5,"questions":[
+{"q":"What price per unit did the cooperative accept?","options":["P93,000","P95,000","P80,000","P45,000"],"answer":0},
+{"q":"Within how many days must the cooperative pay for the order?","options":["30","60","90","120"],"answer":2},
+{"q":"What was the monthly rent of the warehouse Enzo found in Calasiao?","options":["P12,000","P16,000","P24,000","P36,000"],"answer":0},
+{"q":"What is the penalty per week of delay in the contract?","options":["Two percent","Five percent","Ten percent","No penalty"],"answer":0},
+{"q":"What did Grace paint on the sign at the garage?","options":["Factorual – Garage of Hope","Factorual – Factory of Dreams","Santiago Auto Repair","Calasiao Garage"],"answer":0}
+]}
+]

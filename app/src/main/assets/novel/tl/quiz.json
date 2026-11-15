@@ -1,0 +1,37 @@
+[
+{"chapter":1,"questions":[
+{"q":"Saan matatagpuan ang garahe na pinagsimulan ni Enzo?","options":["Dagupan","Calasiao","Urdaneta","Malasiqui"],"answer":1},
+{"q":"Ano ang tawag ni Enzo sa kanyang kuwaderno na puno ng guhit at kuwenta?","options":["Mga plano ng negosyo","Mga sketch ng pangarap","Mga listahan ng gastos","Mga aklat ng makina"],"answer":1},
+{"q":"Sino ang kaibigan ni Enzo na mahusay mag-ayos ng makina at dating nagtrabaho sa Urdaneta?","options":["Joel Mercado","Ben Villanueva","Marco","Richard Santiago"],"answer":0},
+{"q":"Magkano ang nagastos sa garahe ayon kay Grace, bago isama ang kuryente?","options":["Mahigit P35,000","Mahigit P80,000","Mahigit P5,000","Mahigit P100,000"],"answer":0},
+{"q":"Ano ang pinagmulan ng pangalang Factorual?","options":["Factor at actual","Factory at real","Fact at ideal","Future at actual"],"answer":0}
+]},
+{"chapter":2,"questions":[
+{"q":"Anong problema ang lumitaw sa battery pack sa ikatlong araw ng pagsubok?","options":["Sobrang init","Nawalan ng kuryente","Nabasag ang kaha","Nasunog ang gulong"],"answer":0},
+{"q":"Ilang oras ang itinakdang limitasyon ng charging pagkatapos ng pagkukumpuni?","options":["Pitong oras","Limang oras","Sampung oras","Tatlong oras"],"answer":1},
+{"q":"Ano ang ginawa ni Joel sa lumang goma sa paligid ng motor?","options":["Tinanggal at pinalitan ng lalagyan na may butas","Pinatong ng yelo","Pinintahan","Ginawang gulong"],"answer":0},
+{"q":"Ilang araw ang kasunduang pagsubok ni Mang Ben?","options":["Tatlong araw","Limang araw","Pitong araw","Sampung araw"],"answer":2},
+{"q":"Ano ang inorder ni Mang Ben pagkatapos ng pagsubok?","options":["Dalawang unit","Isang unit lamang","Sampung unit","Isang baterya lamang"],"answer":0}
+]},
+{"chapter":3,"questions":[
+{"q":"Magkano ang inutang nina Enzo kay Tita Lorna?","options":["P50,000","P80,000","P12,000","P16,000"],"answer":1},
+{"q":"Anong bahagi ng katawan ni Joel ang nasugatan habang nagwewelding?","options":["Kamay","Paa","Mata","Ulo"],"answer":0},
+{"q":"Magkano ang nadoble sa bayad kay Lim Battery Supply?","options":["P12,000","P16,000","P38,000","P80,000"],"answer":0},
+{"q":"Ano ang isinulat ni Enzo sa puting pisara sa dulo ng kabanata?","options":["DALAWANG UNIT. DALAWANG LINGGO.","PATULOY ANG LABAN.","DAPAT KUMITA.","ISANG LIBONG PANGARAP."],"answer":0},
+{"q":"Ano ang unang patakaran ni Grace sa mga gastos?","options":["Walang bibili kung wala sa listahan","Lahat ng bayad ay cash lang","Walang resibo","Si Enzo lang ang magbabayad"],"answer":0}
+]},
+{"chapter":4,"questions":[
+{"q":"Anong problema ang lumitaw sa pangalawang unit ni Mang Ben?","options":["Sirang gulong","Pagkasira ng baterya","Nawawalang susi","Sirang preno"],"answer":1},
+{"q":"Sino ang nagalit dahil ginamit ang talyer para sa proyekto?","options":["Richard Santiago","Helen Santiago","Grace Dela Cruz","Mang Ben"],"answer":0},
+{"q":"Magkano ang natitirang halaga ng warranty na kailangang sagutin ng Factorual?","options":["P16,000","P38,000","P117,000","P93,000"],"answer":0},
+{"q":"Sino ang tumawag mula sa Urdaneta Transport Cooperative?","options":["Celia Ramos","Lorna Santiago","Patricia Salazar","Marco"],"answer":0},
+{"q":"Ilang unit ang tinitingnan ng kooperatiba para sa kanilang mga miyembro?","options":["Sampu","Labinlima","Dalawampu","Limampu"],"answer":2}
+]},
+{"chapter":5,"questions":[
+{"q":"Magkano ang presyo kada unit na tinanggap ng kooperatiba?","options":["P93,000","P95,000","P80,000","P45,000"],"answer":0},
+{"q":"Sa loob ng ilang araw dapat bayaran ng kooperatiba ang order?","options":["30","60","90","120"],"answer":2},
+{"q":"Magkano ang upa kada buwan ng bodegang nakita nina Enzo sa Calasiao?","options":["P12,000","P16,000","P24,000","P36,000"],"answer":0},
+{"q":"Ano ang multa kada linggo ng pagkaantala sa kontrata?","options":["Dalawang porsiyento","Limang porsiyento","Sampung porsiyento","Walang multa"],"answer":0},
+{"q":"Ano ang nakasulat sa sign na isinulat ni Grace sa garahe?","options":["Factorual – Garahe ng Pag-asa","Factorual – Pabrika ng Pangarap","Santiago Auto Repair","Garahe ng Calasiao"],"answer":0}
+]}
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="appBg" format="color" />
+    <attr name="appCard" format="color" />
+    <attr name="appText" format="color" />
+    <attr name="appMuted" format="color" />
+    <attr name="appPrimary" format="color" />
+    <attr name="appOnPrimary" format="color" />
+    <attr name="appBorder" format="color" />
+    <attr name="appDisabled" format="color" />
+    <attr name="appSuccess" format="color" />
+    <attr name="appSuccessBg" format="color" />
+    <attr name="appDanger" format="color" />
+    <attr name="appDangerBg" format="color" />
+</resources>
